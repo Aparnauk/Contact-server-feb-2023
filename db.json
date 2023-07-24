@@ -1,0 +1,112 @@
+{
+  "contacts": [
+    {
+      "id": "ca1",
+      "name": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "photo": "https://tse2.mm.bing.net/th?id=OIP.8srvO2PtBJk8dCezMndAtAHaJx&pid=Api&P=0",
+      "mobile": "9876543210",
+      "company": "Romaguera-Crona",
+      "title": "Developer",
+      "groupId": "1"
+    },
+    {
+      "id": "ca2",
+      "name": "Ervin Howell",
+      "email": "Shanna@melissa.tv",
+      "photo": "https://tse2.mm.bing.net/th?id=OIP.hxknN5b25zel3hJCKa_xmQHaJi&pid=Api&P=0",
+      "mobile": "4546236563",
+      "company": "Deckow-Crist",
+      "title": "Network Admin",
+      "groupId": "1"
+    },
+    {
+      "id": "ca3",
+      "name": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "photo": "https://tse4.mm.bing.net/th?id=OIP.bnMZqZBnjB_bx2yrH54X-QHaLI&pid=Api&P=0",
+      "mobile": "9876543210",
+      "company": "Romaguera-Jacobson",
+      "title": "Tester",
+      "groupId": "3"
+    },
+    {
+      "id": "ca4",
+      "name": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "photo": "https://tse3.mm.bing.net/th?id=OIP.JAKbO1hgHRWAwjGNNVAgnAHaIr&pid=Api&P=0",
+      "mobile": "9876543210",
+      "company": "Robel-Corkery",
+      "title": "Developer",
+      "groupId": "4"
+    },
+    {
+      "id": "ca5",
+      "name": "Chelsey Dietrich",
+      "email": "Lucio_Hettinger@annie.ca",
+      "photo": "https://img.izismile.com/img/img12/20190404/640/internet_has_chosen_the_most_beautiful_hollywood_actresses_of_all_time_640_high_04.jpg",
+      "mobile": "9876543210",
+      "company": "Keebler LLC",
+      "title": "HR",
+      "groupId": "1"
+    },
+    {
+      "id": "ca6",
+      "name": "Mrs. Dennis Schulist",
+      "email": "Karley_Dach@jasper.info",
+      "photo": "https://i.pinimg.com/originals/e7/0e/18/e70e1876cdd4f5537df9a817248b9477.jpg",
+      "mobile": "9876543210",
+      "company": "Considine-Lockman",
+      "title": "Developer",
+      "groupId": "2"
+    },
+    {
+      "id": "ca7",
+      "name": "Kurtis Weissnat",
+      "email": "Telly.Hoeger@billy.biz",
+      "photo": "https://tse4.mm.bing.net/th?id=OIP.m3rkzh5zmIk5rDE9ib22wwHaJE&pid=Api&P=0",
+      "mobile": "9876543210",
+      "company": "Johns Group",
+      "title": "Data Analyst",
+      "groupId": "3"
+    },
+    {
+      "id": "ca8",
+      "name": "Nicholas Runolfsdottir V",
+      "email": "Sherwood@rosamond.me",
+      "photo": "https://qph.fs.quoracdn.net/main-qimg-db4e696e7c0905ee34f311d49135e607",
+      "mobile": "9876543210",
+      "company": "Abernathy Group",
+      "title": "Developer",
+      "groupId": "4"
+    },
+    {
+      "groupId": "3",
+      "id": "ca9",
+      "name": "Niariya",
+      "photo": "data:image/jpeg;base64,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",
+      "email": "niariageh@gmail.com",
+      "mobile": "7785662312",
+      "company": "APK develop",
+      "title": "Niara"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Friends"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Collegues"
+    },
+    {
+      "id": "4",
+      "name": "Social"
+    }
+  ]
+}
